@@ -1,4 +1,4 @@
-# 1.4.1 Responsive Exercises
+# CSS P3 - Responsive Exercises
 
 _This workshop is optional._
 
